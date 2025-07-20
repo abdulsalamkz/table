@@ -13,7 +13,7 @@ async function getData() {
     for (const key in element) {
       const td = document.createElement("td");
       tr.appendChild(td);
-      td.innerHTML = element[key];
+      td.innerHTML = element;
     }
   });
 }
