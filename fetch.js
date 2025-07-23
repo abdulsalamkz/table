@@ -6,7 +6,7 @@
 //     headRow.appendChild(th);
 //     th.innerHTML = key;
 //   }
-
+ 
 //   data.forEach((element) => {
 //     const tr = document.createElement("tr");
 //     tbody.appendChild(tr);
